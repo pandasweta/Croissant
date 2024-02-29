@@ -1,0 +1,28 @@
+body {
+  background: #f7ea95;
+  margin: 50px auto;
+}
+
+h1 {
+  text-align: center;
+  font-size: 32px;
+}
+p {
+  text-align: center;
+}
+footer {
+  text-align: center;
+}
+a {
+  color: #2e5340;
+  padding: 5px;
+}
+.mail-id {
+  color: blue;
+}
+.photo {
+  border-radius: 8px;
+  display: block;
+  margin: 30px auto;
+  width: 350px;
+}
