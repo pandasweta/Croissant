@@ -1,5 +1,5 @@
 body {
-  background: #f7ea95;
+  background: #f7e8f0;
   margin: 50px auto;
 }
 
@@ -25,4 +25,5 @@ a {
   display: block;
   margin: 30px auto;
   width: 350px;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);
 }
